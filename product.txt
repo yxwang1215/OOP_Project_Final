@@ -1,8 +1,8 @@
-apple 11 222 2204 fruit
+apple 11 222 2207 fruit
 apple-pie apple?^_^pie! 22 333 rice
 appp appp 22 0 0
 ipad ipaddd 2999 1997 electronic
 iphone Electronic^_^products 1999 90 Electronic
 nam des 22 0 name
-test1 test1 100 100 testc
-test2 test2 200 200 testc
+test1 test1 100 98 testc
+test2 test2 200 199 testc

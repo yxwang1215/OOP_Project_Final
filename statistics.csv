@@ -1,0 +1,8 @@
+username, product, category, quantity, price
+666, apple, fruit, 9, 1998
+666, ipad, electronic, 12, 35988
+666, test1, testc, 2, 200
+666, test2, testc, 1, 200
+666, -, electronic, 12, 35988
+666, -, fruit, 9, 1998
+666, -, testc, 3, 400
